@@ -22,7 +22,7 @@ return(
       </div>
 
       <div className="container">
-       <img src={image} width="300px" height="400px"/>
+       <img src={image} width="300px" height="400px" alt="gifts"/>
       </div>
 
       <div className="container">
